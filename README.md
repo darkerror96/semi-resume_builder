@@ -9,7 +9,7 @@ For testing the application, user needs to input summary, personal details, educ
 
 NOTE : - Requires an existing sqlite 'resume.db' file in project directory to save the information. The scmema is available in          the 'ddl.sql' file.
 
-TODO: Add Generate functionality
+TODO : - Add Generate functionality
 
 Add file menu item for generate options.
 Create output formatting class for each specific style.
